@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ RANY-BOT'
+global.botname = 'ᴛʜᴇ RANDY-BOT'
 global.premium = 'true'
 global.packname = 'RANDY┃ᴮᴼᵀ' 
 global.author = '@randyff' 
